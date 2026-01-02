@@ -1,6 +1,6 @@
-# Firefox 132 for Windows 8.1
+# Firefox for Windows 8.1
 
-This repository contains a modified version of Firefox 132 that has been patched to run on Windows 8.1, which is no longer officially supported by Mozilla.
+This repository contains a modified version of Firefox that has been patched to run on Windows 8.1, which is no longer officially supported by Mozilla.
 
     ⚠️ Disclaimer: This project is not affiliated with or endorsed by Mozilla. Use at your own risk.
 
